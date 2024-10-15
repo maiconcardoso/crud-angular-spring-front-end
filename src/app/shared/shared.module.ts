@@ -8,7 +8,7 @@ import { ConfirmationDialogComponent } from './components/confirmation-dialog/co
 @NgModule({
   declarations: [
     ErrorDialogComponent,
-    ConfirmationDialogComponent
+    ConfirmationDialogComponent,
   ],
   imports: [
     CommonModule,
